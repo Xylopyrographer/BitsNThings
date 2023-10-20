@@ -1,0 +1,28 @@
+Basic Arduino IDE v2.X.Y "Tools" menu starting
+settings for the AI-S3 ESP32-S3 Dev Board
+
+Board: "ESP32S3 Dev Module"
+Port: [pick_the_board_port]
+
+USB CDC On Boot: "Disabled"
+CPU Frequency: "240MHz (WiFi)"
+Core Debug Level: "None"
+USB DFU On Boot: "Disabled"
+Erase All Flash Before Sketch Upload: "Disabled"
+Events Run On: "Core 1"
+Flash Mode: "QI0 80MHz"
+Flash Size: "8MB (64Mb)"
+JTAG Adapter: "Disabled"
+Arduino Runs On: "Core 1"
+USB Firmware MSC On Boot: "Disabled"
+Partition Scheme: "8M with spiffs (3MB APP/1.5MB SPIFFS)"
+PSRAM: "Disabled"
+Upload Mode: "UARTO / Hardware CDC"
+Upload Speed: "921600"
+USB Mode: "Hardware CDC and JAG"
+Programmer: "Esptool"
+
+
+Plug the USB cable in to the "COM" port (right hand port when viewed from the top with USB connectors at the bottom).
+Match the Partition Scheme to the board hardware flash size & sketch requirements.
+Set PSRAM: to "Enabled" if required in your sketch.
