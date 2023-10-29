@@ -1,6 +1,6 @@
 # Xylopyrographer's Bits n' Things Repository
 
-A collection of stuff that—in my mind anyway—were hard to come by or figure out along the journey of learning and using things related to microcontroller development.
+A collection of stuff that—in my mind anyway—was hard to come by or figure out along the journey of learning and using things related to microcontroller development.
 
 Being shared here, hoping it'll help others as well.
 
